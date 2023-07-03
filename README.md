@@ -2,7 +2,9 @@
 YOU WANT TO SOAK YOURSELF IN KNOWLEDGE
 
 · Attack-Defense - https://attackdefense.com/
+
 · Alert to win - https://alf.nu/alert1
+
 · CTF Komodo Security - https://ctf.komodosec.com/
 · Cyberdefenders - https://lnkd.in/dVcmjEw8
 · CryptoHack - https://cryptohack.org/
